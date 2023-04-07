@@ -1,0 +1,17 @@
+.menuBurger{
+    height: 3.5vmax;
+}
+body{
+    background-image: linear-gradient( rgb(38, 30, 30)   , rgb(19, 19, 33),black);
+}
+.poseTop{
+    margin-top: 70px;
+    text-align: center;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+
+    height: 90vh;
+    background-color: rgb(255, 245, 245);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

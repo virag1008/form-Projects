@@ -1,0 +1,22 @@
+
+.homePage{
+  height:87vh;
+  background-color: red;
+  background-image:linear-gradient(skyblue,yellow,lightgreen);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.headclass{
+  background-color: skyblue;
+}
+
+.personalPage{
+  background-color: rgb(240, 236, 236);
+}
+
+.Capitalised{
+  text-transform: capitalize;
+}
